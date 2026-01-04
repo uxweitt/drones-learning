@@ -20,4 +20,3 @@
 - [ ] project_4: Vision-based control
 - [ ] project_5: Vision+RL hybrid
 
-**Day 1 (Jan 3)**
