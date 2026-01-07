@@ -36,3 +36,11 @@ ___
 Fast.ai 
 
 - [x] part 1 lesson 2
+
+___
+
+## Day 4 (Jan 7)
+
+Fast.ai 
+
+- [x] part 1 lesson 3
