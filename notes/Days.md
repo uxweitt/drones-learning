@@ -24,3 +24,15 @@ ___
 Fast.ai 
 
 - [x] part 1 lesson 1
+
+___
+
+## Day 3 (Jan 5)
+
+[VNAV](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/pages/lecture-notes/)
+
+- [x] Lec2-3_VNAV (before **Inverse of a rotation**.)
+
+Fast.ai 
+
+- [x] part 1 lesson 2
